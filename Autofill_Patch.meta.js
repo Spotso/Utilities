@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Autofill Patch
 // @namespace    Spotso
-// @version      2024-12-14
+// @version      2025-01-08
 // @description  Patches input fields for password managers to autofill.
 // @author       Anthony Ma
 // @icon         https://raw.githubusercontent.com/Spotso/Logo/refs/heads/main/S_234x234_white.png
